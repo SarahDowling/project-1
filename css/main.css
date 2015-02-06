@@ -1,0 +1,62 @@
+header{
+	background-color: #ffe524;
+}
+
+
+body{
+	margin: 0;
+}
+
+main{
+	padding: 1em 0.5em;
+}
+
+h1, h2, h3{
+	color: #b32f52;
+	font-family: 'Simonetta', cursive;
+	margin:0;
+}
+
+
+nav a:hover{
+	color:#b32f52;
+	display: inline-block;
+}
+
+nav li{
+	display: inline-block;
+}
+
+ol{
+	list-style-type: none;
+	margin: 0;
+	padding: 0 1em;
+	display: inline-block;
+}
+
+
+blockquote{
+	color: #b1a352;
+}
+
+figure{
+	background-color: #fffce0;
+	border-radius: 10px;
+	padding: 0.75em;
+	border: 2px solid #c5b844;
+}
+
+img{
+	width: 100%;
+}
+
+aside{
+	background-color: #ffe524;
+	margin: 0;
+	padding: 2em 0;
+	text-align: center;
+}
+
+p{
+	margin:0;
+}
