@@ -29,7 +29,7 @@ h1{
 h2{
 	font-size: 1.75rem;
 	border-top: solid #ffe524;
-
+	padding: 1em 0;
 }
 
 h3{
@@ -73,8 +73,20 @@ dt{
 	font-weight: bold;
 }
 
+dd{
+	margin: 0
+}
+
 blockquote{
 	color: #b1a352;
+	text-align: center;
+	font-size: 1.1rem;
+	margin: 0;
+	padding: 0.5em 0;
+}
+blockquote p{
+	font-style: italic;
+	margin: 0;
 }
 
 figure{
@@ -83,7 +95,7 @@ figure{
 	padding: 0.75em;
 	border: 2px solid #c5b844;
 	text-align: center;
-	margin: 0;
+	margin: 0 0 1em 0;
 }
 
 img{
@@ -93,7 +105,7 @@ img{
 aside{
 	background-color: #ffe524;
 	margin: 0;
-	padding: 2em 0;
+	padding: 1em 0;
 	text-align: center;
 }
 
@@ -103,4 +115,17 @@ p{
 
 b{
 	font-weight: normal;
+}
+
+p{
+	margin: 0.75em 0;
+}
+
+strong{
+	font-size: 2em;
+}
+
+em{
+	font-weight: bold;
+	font-style: normal;
 }
