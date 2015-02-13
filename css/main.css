@@ -5,11 +5,10 @@ header{
 
 body{
 	margin: 0;
-	padding: 0.5em 0.5em 0.5em 0.5em;
 }
 
 main{
-
+	padding: 0.5em 0.5em;
 	font-family: 'Georgia', sans-serif;
 	line-height: 1.5em
 }
