@@ -10,7 +10,8 @@ body{
 main{
 	padding: 0.5em 0.5em;
 	font-family: 'Georgia', sans-serif;
-	line-height: 1.5em
+	line-height: 1.5em;
+	display: block;
 }
 
 h1, h2, h3{
